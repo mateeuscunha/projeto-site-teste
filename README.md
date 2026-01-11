@@ -1,2 +1,2 @@
-# projeto-site
-Projeto de um site criado durante o curso de Git e GitHub.
+# Test Website on Pages
+Simple project made on the Git/GitHub course focused on testing the hosting of GitHub Pages.
